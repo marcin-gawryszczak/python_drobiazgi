@@ -54,4 +54,3 @@ kurs = cinkciarz.zapytaj_o_kurs('chf')
 przeliczenie = cinkciarz.przelicz_na_PLN('eur', 6000)
 
 
-# hej dorzucam jeszcze parę słów o mnie. Z pythonem spotkałem się pierwszy raz parę miesięcy temu. Mam zrobiony  kurs na udemy i parę tutoriali. W listopadzie dostałem się na staż w IT (akurat bez pythona, lecz z js), który niedawno dobiegł końca (ale mega dużo się tam nauczyłem). Mam zatem sporo czasu na pracę w ciekawym projekcie. Moją główną cechą charakterystyczną w programowaniu jest to, że zawsze walczę do końca przy szukaniu optymalnych rozwiazań :) Znam gita, scruma i parę innych technologii przydatnych w projektach. W razie chęci kontaktu piszcie na maila: gawryszczakmarcin@gmail.com lub na FB :) Pozdrowienia
