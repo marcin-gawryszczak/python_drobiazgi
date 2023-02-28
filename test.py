@@ -51,6 +51,6 @@ cinkciarz = Cinkciarz()
 kurs = cinkciarz.zapytaj_o_kurs('nok')
 
 #prośba o przeliczenie
-przeliczenie = cinkciarz.przelicz_na_PLN('nok', 6000)
+przeliczenie = cinkciarz.przelicz_na_PLN('GBP', 6000)
 
 
