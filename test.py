@@ -4,7 +4,7 @@ import json
 
 class Cinkciarz:
     def __init__(self):
-        print('Cinciarz stworzony')
+        print('Cinkciarz działa')
 
     def przelicz_na_PLN(self, kod, ile):
         try:
@@ -48,9 +48,9 @@ class Cinkciarz:
 cinkciarz = Cinkciarz() 
 
 #prośba o kurs
-kurs = cinkciarz.zapytaj_o_kurs('chf')
+kurs = cinkciarz.zapytaj_o_kurs('nok')
 
 #prośba o przeliczenie
-przeliczenie = cinkciarz.przelicz_na_PLN('eur', 6000)
+przeliczenie = cinkciarz.przelicz_na_PLN('nok', 6000)
 
 
